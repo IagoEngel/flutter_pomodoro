@@ -1,16 +1,11 @@
-# flutter_pomodoro
+# Pomodoro - Flutter
 
-A new Flutter project.
+Nono projeto finalizado no curso "Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022".
 
-## Getting Started
+Um simples app de Pomodoro para introduzir o conhecimento sobre MobX como gerenciador de estados. O usuário pode aumentar e diminuir seus tempos de trabalho e descanso ou reiniciar o cronômetro. Os botões de aumentar e diminuir são bloqueados quando o usuário tenta modificar o tempo que está sendo percorrido no momento da ação.
 
-This project is a starting point for a Flutter application.
+Pacotes utilizados: mobx, flutter_mobx, provider, build_runner e mobx_codegen.
 
-A few resources to get you started if this is your first Flutter project:
+Versão do Flutter: 3.10.2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gif apresentando o projeto](pomodoro.gif)
